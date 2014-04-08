@@ -1,0 +1,2 @@
+STR_TEST_ID_0 = HELLO,WORLD
+STR_TEST_ID_1 = 你好，世界
